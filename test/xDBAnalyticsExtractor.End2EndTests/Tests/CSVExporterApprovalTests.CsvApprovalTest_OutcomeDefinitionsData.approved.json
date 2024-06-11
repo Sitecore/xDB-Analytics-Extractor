@@ -1,0 +1,82 @@
+﻿[
+    {
+        "Id": "52054874-4767-47dc-8099-8c08bfa307aa",
+        "Alias": "Marketing Lead",
+        "CreatedDate": "07/09/2014 09:59:33",
+        "LastModifiedDate": "06/01/2015 16:38:33",
+        "CreatedBy": "sitecore\\admin",
+        "LastModifiedBy": "sitecore\\admin",
+        "Culture": "",
+        "Description": ""
+    },
+    {
+        "Id": "5646d20e-b10a-42ba-876b-2a3bb3cbc641",
+        "Alias": "Close - Won",
+        "CreatedDate": "10/30/2014 12:16:27",
+        "LastModifiedDate": "06/01/2015 16:39:18",
+        "CreatedBy": "sitecore\\admin",
+        "LastModifiedBy": "sitecore\\admin",
+        "Culture": "",
+        "Description": ""
+    },
+    {
+        "Id": "75d53206-47b3-4391-bd48-75c42e5fc2ce",
+        "Alias": "Contact Acquisition",
+        "CreatedDate": "10/30/2014 12:24:42",
+        "LastModifiedDate": "06/01/2015 16:39:35",
+        "CreatedBy": "sitecore\\admin",
+        "LastModifiedBy": "sitecore\\admin",
+        "Culture": "",
+        "Description": ""
+    },
+    {
+        "Id": "9016e456-95cb-42e9-ad58-997d6d77ae83",
+        "Alias": "Product Purchase",
+        "CreatedDate": "10/30/2014 12:33:33",
+        "LastModifiedDate": "06/01/2015 16:39:38",
+        "CreatedBy": "sitecore\\admin",
+        "LastModifiedBy": "sitecore\\admin",
+        "Culture": "",
+        "Description": ""
+    },
+    {
+        "Id": "b4d9c749-65e7-457d-b61d-4150b9e51424",
+        "Alias": "Close - Lost",
+        "CreatedDate": "10/30/2014 12:17:09",
+        "LastModifiedDate": "06/01/2015 16:39:22",
+        "CreatedBy": "sitecore\\admin",
+        "LastModifiedBy": "sitecore\\admin",
+        "Culture": "",
+        "Description": ""
+    },
+    {
+        "Id": "bf6b8ee3-9ffb-4c58-9cb4-301c1c710f89",
+        "Alias": "Opportunity",
+        "CreatedDate": "07/09/2014 09:59:08",
+        "LastModifiedDate": "06/01/2015 16:39:02",
+        "CreatedBy": "sitecore\\admin",
+        "LastModifiedBy": "sitecore\\admin",
+        "Culture": "",
+        "Description": ""
+    },
+    {
+        "Id": "c2d9dfbc-e465-45fd-ba21-0a06ebe942d6",
+        "Alias": "Sales Lead",
+        "CreatedDate": "07/09/2014 09:59:23",
+        "LastModifiedDate": "06/01/2015 16:38:39",
+        "CreatedBy": "sitecore\\admin",
+        "LastModifiedBy": "sitecore\\admin",
+        "Culture": "",
+        "Description": ""
+    },
+    {
+        "Id": "f4830b80-1bb1-4746-89c7-96efe40da572",
+        "Alias": "Close - Cancelled",
+        "CreatedDate": "10/30/2014 12:17:28",
+        "LastModifiedDate": "06/01/2015 16:39:32",
+        "CreatedBy": "sitecore\\admin",
+        "LastModifiedBy": "sitecore\\admin",
+        "Culture": "",
+        "Description": ""
+    }
+]

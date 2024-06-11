@@ -1,0 +1,20 @@
+﻿[
+    {
+        "Id": "*",
+        "InteractionId": "*",
+        "CustomValues": "{\u0022PageViewKey0\u0022:\u0022PageViewValue0\u0022,\u0022PageViewKey1\u0022:\u0022PageViewValue1\u0022,\u0022PageViewKey2\u0022:\u0022PageViewValue2\u0022,\u0022PageViewKey3\u0022:\u0022PageViewValue3\u0022,\u0022PageViewKey4\u0022:\u0022PageViewValue4\u0022,\u0022PageViewKey5\u0022:\u0022PageViewValue5\u0022,\u0022PageViewKey6\u0022:\u0022PageViewValue6\u0022,\u0022PageViewKey7\u0022:\u0022PageViewValue7\u0022,\u0022PageViewKey8\u0022:\u0022PageViewValue8\u0022,\u0022PageViewKey9\u0022:\u0022PageViewValue9\u0022}",
+        "Data": "dataString",
+        "DataKey": "dataKeyString",
+        "DefinitionId": "9326cb1e-cec8-48f2-9a3e-91c7dbb2166c",
+        "ItemId": "00000002-0001-000c-0001-000000000006",
+        "EngagementValue": "20",
+        "ParentEventId": "",
+        "Text": "textString",
+        "Timestamp": "*",
+        "Duration": "01:00:00",
+        "ItemLanguage": "en",
+        "ItemVersion": "1",
+        "Url": "https://www.mitso-takis.com",
+        "EventDefinitionId": "9326cb1e-cec8-48f2-9a3e-91c7dbb2166c"
+    }
+]

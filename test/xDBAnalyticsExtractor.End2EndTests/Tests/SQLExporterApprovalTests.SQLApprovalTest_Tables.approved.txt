@@ -1,0 +1,16 @@
+﻿Table Names
+
+Table[0] = Interactions
+Table[1] = EventDefinitions
+Table[2] = CampaignDefinitions
+Table[3] = GoalDefinitions
+Table[4] = OutcomeDefinitions
+Table[5] = Campaigns
+Table[6] = Devices
+Table[7] = Downloads
+Table[8] = GeoNetworks
+Table[9] = Goals
+Table[10] = Outcomes
+Table[11] = PageViews
+Table[12] = Searches
+Table[13] = Channels

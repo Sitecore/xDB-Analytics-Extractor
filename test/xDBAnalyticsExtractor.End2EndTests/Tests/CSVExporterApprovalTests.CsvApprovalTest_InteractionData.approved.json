@@ -1,0 +1,20 @@
+﻿[
+    {
+        "InteractionId": "*",
+        "StartDateTime": "*",
+        "EndDateTime": "*",
+        "LastModified": "*",
+        "CampaignId": "d74879a8-99cd-0000-0000-06cfaab89619",
+        "ChannelId": "8d52bb4e-22cf-483d-be62-760a372160cd",
+        "EngagementValue": "163",
+        "Duration": "*",
+        "UserAgent": "some Agent",
+        "Bounces": "1",
+        "Conversions": "1",
+        "Converted": "1",
+        "TimeOnSite": "3600",
+        "PageViews": "1",
+        "OutcomeOccurrences": "1",
+        "MonetaryValue": "100.3"
+    }
+]

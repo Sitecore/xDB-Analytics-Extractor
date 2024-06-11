@@ -1,0 +1,42 @@
+﻿[
+    {
+        "Id": "0fd3ef44-6c4a-40ce-8f97-6197bd9c61f2",
+        "Alias": "PersonalizationEvent",
+        "CreatedDate": "3/10/2017 7:43:40 AM",
+        "LastModifiedDate": "5/30/2017 9:06:09 AM",
+        "CreatedBy": "sitecore\\admin",
+        "LastModifiedBy": "sitecore\\admin",
+        "Culture": "",
+        "Description": ""
+    },
+    {
+        "Id": "9fd4ec5f-2355-4540-9e4b-626134044a09",
+        "Alias": "Change Profile Scores Event",
+        "CreatedDate": "9/1/2016 3:01:47 PM",
+        "LastModifiedDate": "7/1/2020 6:27:48 AM",
+        "CreatedBy": "sitecore\\admin",
+        "LastModifiedBy": "sitecore\\admin",
+        "Culture": "",
+        "Description": "Indicates the contact profile scores are changed."
+    },
+    {
+        "Id": "9326cb1e-cec8-48f2-9a3e-91c7dbb2166c",
+        "Alias": "Page View",
+        "CreatedDate": "9/1/2016 3:01:47 PM",
+        "LastModifiedDate": "9/1/2016 3:02:27 PM",
+        "CreatedBy": "sitecore\\admin",
+        "LastModifiedBy": "sitecore\\admin",
+        "Culture": "",
+        "Description": "Indicates a page was viewed during a web session"
+    },
+    {
+        "Id": "f32662fb-54da-4990-b25a-9962b9eb1588",
+        "Alias": "MV Test",
+        "CreatedDate": "1/11/2017 2:47:35 AM",
+        "LastModifiedDate": "5/30/2017 9:05:37 AM",
+        "CreatedBy": "sitecore\\admin",
+        "LastModifiedBy": "sitecore\\admin",
+        "Culture": "",
+        "Description": ""
+    }
+]

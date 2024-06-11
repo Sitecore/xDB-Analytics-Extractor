@@ -1,0 +1,32 @@
+﻿[
+    {
+        "Id": "ea0d8753-9b64-4a50-98e2-00e8143e0b8f",
+        "Alias": "Increase Awareness",
+        "CreatedDate": "11/23/2023 12:54:18 PM",
+        "LastModifiedDate": "11/23/2023 12:54:48 PM",
+        "CreatedBy": "sitecore\\Admin",
+        "LastModifiedBy": "sitecore\\Admin",
+        "Culture": "",
+        "Description": ""
+    },
+    {
+        "Id": "34509012-d6cc-4668-9e06-50bd36a844f6",
+        "Alias": "Extractor Test Campaign",
+        "CreatedDate": "11/23/2023 12:50:21 PM",
+        "LastModifiedDate": "11/23/2023 12:53:18 PM",
+        "CreatedBy": "sitecore\\Admin",
+        "LastModifiedBy": "sitecore\\Admin",
+        "Culture": "",
+        "Description": ""
+    },
+    {
+        "Id": "f3ec0049-1d8a-4582-8dee-bb1bf05de843",
+        "Alias": "Brand Promotion",
+        "CreatedDate": "11/23/2023 1:01:37 PM",
+        "LastModifiedDate": "11/23/2023 1:01:44 PM",
+        "CreatedBy": "sitecore\\Admin",
+        "LastModifiedBy": "sitecore\\Admin",
+        "Culture": "",
+        "Description": ""
+    }
+]

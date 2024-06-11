@@ -1,0 +1,18 @@
+﻿[
+    {
+        "EventDefinitionId": "0c179613-2073-41ab-992e-027d03d523bf",
+        "Keywords": "mitsos",
+        "CustomValues": "{\u0022SearchKey0\u0022:\u0022SearchValue0\u0022,\u0022SearchKey1\u0022:\u0022SearchValue1\u0022,\u0022SearchKey2\u0022:\u0022SearchValue2\u0022,\u0022SearchKey3\u0022:\u0022SearchValue3\u0022,\u0022SearchKey4\u0022:\u0022SearchValue4\u0022,\u0022SearchKey5\u0022:\u0022SearchValue5\u0022,\u0022SearchKey6\u0022:\u0022SearchValue6\u0022,\u0022SearchKey7\u0022:\u0022SearchValue7\u0022,\u0022SearchKey8\u0022:\u0022SearchValue8\u0022,\u0022SearchKey9\u0022:\u0022SearchValue9\u0022}",
+        "Data": "some data",
+        "DataKey": "secretKey Data",
+        "DefinitionId": "0c179613-2073-41ab-992e-027d03d523bf",
+        "ItemId": "00000002-0001-000c-0001-00000000001c",
+        "EngagementValue": "3",
+        "Id": "00000002-0001-000c-0001-00000000002c",
+        "ParentEventId": "*",
+        "Text": "Search Text",
+        "Timestamp": "*",
+        "Duration": "00:00:03",
+        "InteractionId": "*"
+    }
+]

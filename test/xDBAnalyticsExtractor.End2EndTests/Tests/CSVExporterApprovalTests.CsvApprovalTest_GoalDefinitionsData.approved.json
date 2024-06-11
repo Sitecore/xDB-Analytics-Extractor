@@ -1,0 +1,62 @@
+﻿[
+    {
+        "Id": "1779cc42-ef7a-4c58-bf19-fa85d30755c9",
+        "Alias": "Newsletter Signup",
+        "CreatedDate": "12/11/2008 07:54:39",
+        "LastModifiedDate": "10/16/2014 11:02:03",
+        "CreatedBy": "sitecore\\admin",
+        "LastModifiedBy": "sitecore\\admin",
+        "Culture": "",
+        "Description": "User has signed up for a newsletter"
+    },
+    {
+        "Id": "28a7c944-b8b6-45ad-a635-6f72e8f81f69",
+        "Alias": "Instant Demo",
+        "CreatedDate": "12/18/2008 08:59:02",
+        "LastModifiedDate": "10/16/2014 11:01:54",
+        "CreatedBy": "sitecore\\admin",
+        "LastModifiedBy": "sitecore\\admin",
+        "Culture": "",
+        "Description": "User has signed up for an instant demo"
+    },
+    {
+        "Id": "66722f52-2d13-4dcc-90fc-ea7117cf2298",
+        "Alias": "Login",
+        "CreatedDate": "12/11/2008 07:54:38",
+        "LastModifiedDate": "05/24/2011 12:31:03",
+        "CreatedBy": "sitecore\\admin",
+        "LastModifiedBy": "sitecore\\admin",
+        "Culture": "",
+        "Description": "User has logged on"
+    },
+    {
+        "Id": "87431b9b-fa39-4780-beb3-1047b9e61876",
+        "Alias": "Click Email Link",
+        "CreatedDate": "05/25/2011 08:23:00",
+        "LastModifiedDate": "09/03/2015 11:36:09",
+        "CreatedBy": "sitecore\\admin",
+        "LastModifiedBy": "sitecore\\admin",
+        "Culture": "",
+        "Description": ""
+    },
+    {
+        "Id": "8ffb183b-da1a-4c74-8f3a-9729e9fcff6a",
+        "Alias": "Register",
+        "CreatedDate": "12/11/2008 07:54:00",
+        "LastModifiedDate": "05/24/2011 12:31:10",
+        "CreatedBy": "sitecore\\admin",
+        "LastModifiedBy": "sitecore\\admin",
+        "Culture": "",
+        "Description": "User has registered"
+    },
+    {
+        "Id": "968897f1-328a-489d-88e8-be78f4370958",
+        "Alias": "Brochures Request",
+        "CreatedDate": "12/11/2008 07:54:38",
+        "LastModifiedDate": "10/16/2014 11:01:44",
+        "CreatedBy": "sitecore\\admin",
+        "LastModifiedBy": "sitecore\\admin",
+        "Culture": "",
+        "Description": "User has requested a brochure"
+    }
+]
