@@ -1,0 +1,16 @@
+﻿[
+    {
+        "Id": "00000002-0001-000c-0001-00000000000a",
+        "InteractionId": "*",
+        "CustomValues": "{\u0022GoalKey0\u0022:\u0022GoalValue0\u0022,\u0022GoalKey1\u0022:\u0022GoalValue1\u0022,\u0022GoalKey2\u0022:\u0022GoalValue2\u0022,\u0022GoalKey3\u0022:\u0022GoalValue3\u0022,\u0022GoalKey4\u0022:\u0022GoalValue4\u0022,\u0022GoalKey5\u0022:\u0022GoalValue5\u0022,\u0022GoalKey6\u0022:\u0022GoalValue6\u0022,\u0022GoalKey7\u0022:\u0022GoalValue7\u0022,\u0022GoalKey8\u0022:\u0022GoalValue8\u0022,\u0022GoalKey9\u0022:\u0022GoalValue9\u0022}",
+        "Data": "dataString",
+        "DataKey": "dataKeyString",
+        "DefinitionId": "968897f1-328a-489d-88e8-be78f4370958",
+        "ItemId": "00000002-0001-000c-0001-000000000009",
+        "EngagementValue": "40",
+        "ParentEventId": "*",
+        "Text": "textString",
+        "Timestamp": "*",
+        "Duration": "01:00:00"
+    }
+]

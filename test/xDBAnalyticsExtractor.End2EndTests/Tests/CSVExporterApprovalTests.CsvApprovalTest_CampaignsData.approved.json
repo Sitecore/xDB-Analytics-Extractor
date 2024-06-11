@@ -1,0 +1,18 @@
+﻿[
+    {
+        "EventDefinitionId": "f358d040-256f-4fc6-b2a1-739aca2b2983",
+        "CampaignDefinitionId": "f3ec0049-1d8a-4582-8dee-bb1bf05de843",
+        "CustomValues": "{\u0022CampaignKey0\u0022:\u0022CampaignValue0\u0022,\u0022CampaignKey1\u0022:\u0022CampaignValue1\u0022,\u0022CampaignKey2\u0022:\u0022CampaignValue2\u0022,\u0022CampaignKey3\u0022:\u0022CampaignValue3\u0022,\u0022CampaignKey4\u0022:\u0022CampaignValue4\u0022,\u0022CampaignKey5\u0022:\u0022CampaignValue5\u0022,\u0022CampaignKey6\u0022:\u0022CampaignValue6\u0022,\u0022CampaignKey7\u0022:\u0022CampaignValue7\u0022,\u0022CampaignKey8\u0022:\u0022CampaignValue8\u0022,\u0022CampaignKey9\u0022:\u0022CampaignValue9\u0022}",
+        "Data": "dataString",
+        "DataKey": "dataKeyString",
+        "DefinitionId": "f358d040-256f-4fc6-b2a1-739aca2b2983",
+        "ItemId": "00000002-0001-000c-0001-00000000003c",
+        "EngagementValue": "20",
+        "Id": "00000002-0001-000c-0001-00000000004c",
+        "ParentEventId": "*",
+        "Text": "textString",
+        "Timestamp": "*",
+        "Duration": "01:00:00",
+        "InteractionId": "*"
+    }
+]

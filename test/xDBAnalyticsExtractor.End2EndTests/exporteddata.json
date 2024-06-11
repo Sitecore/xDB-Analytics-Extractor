@@ -1,0 +1,23 @@
+{
+  "BasicInteraction": {
+    "ContactId" : "",
+    "Date" : "",
+    "Browser": "Chrome",
+    "BrowserVersion" : "22",
+    "DeviceCategory" : "Desktop",
+    "ScreenSize" : "1920x1080",
+    "OperatingSystem" : "Windows",
+    "OperatingSystemVersion" : "10.4",
+    "Language" : "en",
+    "CanSupportTouchScreen" : "False",
+    "Area" : "2314",
+    "Country" : "Greece",
+    "Region" : "Achaea",
+    "Metro" : "Patras",
+    "Latitude" : "38.8951",
+    "Longitude" : "-77.0364",
+    "LocationId" : "",
+    "TimezoneOffset" : "1/1/0001 12:00:00 AM", //hardcoded for the moment, has to be read from xDB
+    "PostalCode" : "34233"
+  }
+}

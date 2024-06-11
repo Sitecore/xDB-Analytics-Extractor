@@ -1,0 +1,17 @@
+﻿[
+    {
+        "EventDefinitionId": "fa72e131-3cfd-481c-8e15-04496e9586dc",
+        "CustomValues": "{\u0022DownloadKey0\u0022:\u0022DownloadValue0\u0022,\u0022DownloadKey1\u0022:\u0022DownloadValue1\u0022,\u0022DownloadKey2\u0022:\u0022DownloadValue2\u0022,\u0022DownloadKey3\u0022:\u0022DownloadValue3\u0022,\u0022DownloadKey4\u0022:\u0022DownloadValue4\u0022,\u0022DownloadKey5\u0022:\u0022DownloadValue5\u0022,\u0022DownloadKey6\u0022:\u0022DownloadValue6\u0022,\u0022DownloadKey7\u0022:\u0022DownloadValue7\u0022,\u0022DownloadKey8\u0022:\u0022DownloadValue8\u0022,\u0022DownloadKey9\u0022:\u0022DownloadValue9\u0022}",
+        "Data": "dataString",
+        "DataKey": "dataKeyString",
+        "DefinitionId": "fa72e131-3cfd-481c-8e15-04496e9586dc",
+        "ItemId": "00000002-0001-000c-0001-00000000000c",
+        "EngagementValue": "60",
+        "Id": "00000002-0001-000c-0001-00000000000d",
+        "ParentEventId": "*",
+        "Text": "textString",
+        "Timestamp": "*",
+        "Duration": "01:00:00",
+        "InteractionId": "*"
+    }
+]

@@ -1,0 +1,16 @@
+﻿Entity Names
+
+entity[0] = campaignDefinitions
+entity[1] = campaigns
+entity[2] = channels
+entity[3] = devices
+entity[4] = downloads
+entity[5] = eventDefinitions
+entity[6] = geoNetworks
+entity[7] = goalDefinitions
+entity[8] = goals
+entity[9] = interactions
+entity[10] = outcomeDefinitions
+entity[11] = outcomes
+entity[12] = pageViews
+entity[13] = searches

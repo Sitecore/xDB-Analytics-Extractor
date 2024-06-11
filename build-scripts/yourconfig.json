@@ -1,0 +1,21 @@
+{
+    "checkout": {
+        "repository": "Kalkwst/Didactic-octo-lamp",
+        "reclone": true
+    }, 
+    "clean" : {
+        "verbosity":"diag"
+    },
+    "restore" : {
+        "verbosity":"diag"
+    }, 
+    "build": {
+        "verbosity":"diag"
+    },
+    "test": {
+        "verbosity":"diag"
+    },
+    "csv": {
+        "targetDirectory":".\\say\\Hello\\To\\My\\Little\\Friend"
+    }
+}

@@ -1,0 +1,18 @@
+﻿[
+    {
+        "Id": "00000002-0001-000c-0001-000000000008",
+        "InteractionId": "*",
+        "CustomValues": "{\u0022OutcomeKey0\u0022:\u0022OutcomeValue0\u0022,\u0022OutcomeKey1\u0022:\u0022OutcomeValue1\u0022,\u0022OutcomeKey2\u0022:\u0022OutcomeValue2\u0022,\u0022OutcomeKey3\u0022:\u0022OutcomeValue3\u0022,\u0022OutcomeKey4\u0022:\u0022OutcomeValue4\u0022,\u0022OutcomeKey5\u0022:\u0022OutcomeValue5\u0022,\u0022OutcomeKey6\u0022:\u0022OutcomeValue6\u0022,\u0022OutcomeKey7\u0022:\u0022OutcomeValue7\u0022,\u0022OutcomeKey8\u0022:\u0022OutcomeValue8\u0022,\u0022OutcomeKey9\u0022:\u0022OutcomeValue9\u0022}",
+        "Data": "dataString",
+        "DataKey": "dataKeyString",
+        "DefinitionId": "c2d9dfbc-e465-45fd-ba21-0a06ebe942d6",
+        "ItemId": "00000002-0001-000c-0001-000000000007",
+        "EngagementValue": "20",
+        "ParentEventId": "*",
+        "Text": "textString",
+        "Timestamp": "*",
+        "Duration": "01:00:00",
+        "CurrencyCode": "som",
+        "MonetaryValue": "100.3000"
+    }
+]
